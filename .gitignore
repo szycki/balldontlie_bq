@@ -1,3 +1,4 @@
 .env
 **/key.json
 /data
+**/__pycache__
